@@ -22,3 +22,9 @@ mvn deploy  => NOK
 mvn fabric8:deploy -Popenshift => NOK
 
 
+Anderes Beispiel:
+https://www.google.com/search?client=firefox-b-d&q=gitlab+openshift+deploy+sample
+
+
+https://gitlab.com/gitlab-examples/openshift-deploy
+
